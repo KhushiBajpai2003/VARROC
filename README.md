@@ -1,4 +1,3 @@
-# VARROC
 
 # Remote control of Mobile Screen Projection and Control on PC / Laptop 
 
